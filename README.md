@@ -1,1 +1,3 @@
-# Assignment---4
+Assingment 4 - Gender Classification from Audio Features
+Objective : This project aims to classify speaker gender (Male or Female) using audio-based features. The classification is achieved through RandomForestClassifier machine learning model integrated into an interactive Streamlit web application. Training Information() – Split: 80% training / 20% testing, StandardScaler() – after training , SMOTE() – Synthetic Minority Over-sampling to balance class distribution,
+RandomForestClassifier - Aggregates predictions from multiple decision trees to classify data points based on majority voting ,Performance : Achieved an accuracy score of 0.972 .
